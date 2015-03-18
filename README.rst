@@ -1,3 +1,3 @@
-Dexter: Rocked The Party
-========================
+Dexter Rocked The Party
+=======================
 
