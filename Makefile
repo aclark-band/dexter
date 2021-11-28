@@ -53,4 +53,4 @@ include base.mk
 #
 # Uncomment next two lines to add a "phony" target
 #.PHONY: serve
-#serve: django-serve-webpack
+serve: python-serve
